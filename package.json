@@ -1,0 +1,15 @@
+{
+  "name": "jacky_utils_app",
+  "version": "1.0.0",
+  "description": "This is a collection of utils from Jacky",
+  "author": "Jacky <newbdez33@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "config": "^3.0.1",
+    "express": "^4.16.1",
+    "node-binance-api": "^0.8.7"
+  }
+}
